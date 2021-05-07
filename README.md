@@ -64,5 +64,3 @@ apt update -y && apt upgrade -y ; pkg install -y git ; pkg install python ; apt 
 </p>
 
 ---
-
-![](https://komarev.com/ghpvc/?username=muneebwanee&color=blue&style=flat)
